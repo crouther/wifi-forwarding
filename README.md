@@ -55,7 +55,7 @@ Additional steps:
 ```
   sudo nano /etc/dnsmasq.conf
 ```
-    scroll to the bottom and add these lines:
+  scroll to the bottom and add these lines:
 ```
   interface=eth0
   bind-interfaces
