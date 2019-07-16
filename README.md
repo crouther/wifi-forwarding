@@ -1,10 +1,8 @@
 Wifi Modem to Ethernet Port Forwarding:
 ========================================
-**********
-#*******************************************************************************
-#This guide assumes you've already paired your Raspberry Pi 3B+ with your 
-#home wifi network and configured your username and root/admin password. 
-#*******************************************************************************
+
+This guide assumes you've already paired your Raspberry Pi 3B+ with your 
+home wifi network and configured your username and root/admin password. 
 
 Start:
 ---------------------
